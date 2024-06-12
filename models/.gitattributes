@@ -1,0 +1,1 @@
+models/gpt4all-lora-quantized-ggml.bin filter=lfs diff=lfs merge=lfs -text
